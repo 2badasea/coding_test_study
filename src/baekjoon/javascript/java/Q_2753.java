@@ -4,7 +4,6 @@ import java.util.*;
 import java.io.*;
 
 public class Q_2753 {
-    static Scanner scn = new Scanner(System.in);
 
     public static void main(String[] args)  throws IOException{
         // 연도가 주어졌을 때, 윤년이면 1, 아니면 0을 출력하는 프로그램
